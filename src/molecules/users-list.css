@@ -1,0 +1,14 @@
+li{
+    border: 1px solid #e2e2e2;
+    background: #f1f1f1;
+    margin-bottom: 20px;
+    clear: both;
+    overflow: hidden;
+    padding: 10px;
+}
+
+.user-left {
+	    float: left;
+    display: block;
+    margin-right: 20px;
+}
